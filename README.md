@@ -1,7 +1,7 @@
 <H3>NAME : RISHIKESH S</H3>
 <H3>REGISTER NO. : 212225240118</H3>
-<H3>EX. NO.4</H3>
-<H3>DATE: 18/11/2026</H3>
+<H3>EX. NO. : 4</H3>
+<H3>DATE : 18/11/2026</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
 ## Aim: 
